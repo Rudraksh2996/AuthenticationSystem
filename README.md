@@ -1,4 +1,4 @@
-# 🔐 GuardAuth — CLI User Authentication System
+# CLI User Authentication System
 
 A production-quality, colourful, interactive **Command-Line User Authentication System** built in Python — demonstrating real backend thinking through clean architecture, secure password handling, and a rich terminal UI.
 
